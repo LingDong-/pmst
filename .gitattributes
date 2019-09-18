@@ -1,1 +1,1 @@
-tools/ linguist-detectable=false
+tools/* linguist-detectable=false
