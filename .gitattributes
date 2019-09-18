@@ -1,1 +1,8 @@
 tools/* linguist-detectable=false
+tools linguist-detectable=false
+tools/*.py linguist-detectable=false
+tools/*.sh linguist-detectable=false
+tools/*.html linguist-detectable=false
+*.py linguist-detectable=false
+*.html linguist-detectable=false
+*.sh linguist-detectable=false
