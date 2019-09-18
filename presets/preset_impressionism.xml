@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<opencv_storage>
+  <ref_path>./images/sailboat_on_lake.png</ref_path>
+  <sheet_path>./data/1024x100.png</sheet_path>
+  <marks_path>./output/marks.xml</marks_path>
+  <render_path>./output/render.png</render_path>
+  <sprite_w>100</sprite_w>
+  <sprite_n>1024</sprite_n>
+  <action>0</action>
+  <max_iter>2500</max_iter>
+  <var_iter>1000</var_iter>
+  <max_k>300</max_k>
+  <underpaint_iter>1000</underpaint_iter>
+  <mark_w_min>50</mark_w_min>
+  <mark_w_max>200</mark_w_max>
+  <mark_w_var>20</mark_w_var>
+  <repaint_scale>2</repaint_scale>
+  <display_wip>1</display_wip>
+  <adaptive_k>1</adaptive_k>
+  <rotate_marks>1</rotate_marks>
+  <gauss_kern>2</gauss_kern>
+  <remap_color>1</remap_color>
+</opencv_storage>

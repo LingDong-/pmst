@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<opencv_storage>
+  <ref_path>./images/beijing.jpg</ref_path>
+  <sheet_path>./data/8970x10.png</sheet_path>
+  <marks_path>./output/marks.xml</marks_path>
+  <render_path>./output/render.png</render_path>
+  <sprite_w>10</sprite_w>
+  <sprite_n>8970</sprite_n>
+  <action>0</action>
+  <max_iter>20000</max_iter>
+  <var_iter>1000</var_iter>
+  <max_k>100</max_k>
+  <underpaint_iter>100000</underpaint_iter>
+  <mark_w_min>5</mark_w_min>
+  <mark_w_max>6</mark_w_max>
+  <mark_w_var>1</mark_w_var>
+  <repaint_scale>2</repaint_scale>
+  <display_wip>1</display_wip>
+  <adaptive_k>1</adaptive_k>
+  <rotate_marks>0</rotate_marks>
+  <gauss_kern>0</gauss_kern>
+  <remap_color>0</remap_color>
+</opencv_storage>
