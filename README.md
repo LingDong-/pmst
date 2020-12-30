@@ -115,7 +115,7 @@ To create your own `parameters.xml`, first duplicate one of the presets in `pres
 - `<ref_path>` path to reference image
 - `<sheet_path>` path to spritesheet image
 - `<marks_path>` path to a save (or load) the "marks" file, in which all the operation applied will be listed in xml format, so later you can "reanimate" the painting process, or perhaps re-paint at a larger scale after you generated data on a smaller image. This file will be updated periodically while the program is running.
-- `<render_path>` path where the final rendered image will be saved. This file will be updated periodically while the program is running.
+- `<render_path>` path where the final rendered image will be saved. This file will be updated periodically while the program is running. (The file itself will be created, but the folder to contain it has to exist).
 - `<sprite_w>` the width of each sprite
 - `<sprite_n>` total number of sprites in spritesheet
 - `<action>` either `0` or `1`. `0` will be running the normal program on the input images. `1` will be the "re-paint" mode, where it loads the XML at `<marks_path>` (see above) and re-render according to the operations listed there.
